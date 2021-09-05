@@ -1,0 +1,10 @@
+name: Announce Message
+author: GovernedPie
+version: 1.0.0
+api: 3.0.0
+main: announce\main
+description: Simple announce command to announce messages!
+
+commands:
+  announce:
+    description: "Use /announce (MSG) to broadcast a custom message to your server!"
